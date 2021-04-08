@@ -14,7 +14,7 @@ author: Crownel
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  How To: "aboutme"
   Postype: "https://crownel.postype.com/"
 
 # --- Logo --- #
