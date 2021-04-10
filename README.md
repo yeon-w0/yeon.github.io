@@ -83,6 +83,9 @@ open_testlog -> 공개 포스트
 
 **주의 : 비밀번호가 암호화되어서 어디에도 저장되지 않기 때문에, 잊어버리면 신선이 와도 비밀번호를 찾기 어렵습니다. 원본 파일을 버리지 않는 것을 추천합니다!**
 
+## 참조
+- [HTML 의 기초 배우기 (TCP school)](http://tcpschool.com/html/intro)
+- [마크다운 사용법 밎 예제](https://theorydb.github.io/envops/2019/05/22/envops-blog-how-to-use-md/)
 
 
 
