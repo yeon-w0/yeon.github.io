@@ -63,7 +63,7 @@ asset->img 폴더 안에 원하는 사진을 업로드한 후, 해당 파일 페
 
 encrypted_hidden -> 암호화& 숨김 포스트  
 encrypted_open -> 암호화& 공개 포스트  
-hidden_testlog -> 숨김 포스트
+hidden_testlog -> 숨김 포스트  
 open_testlog -> 공개 포스트  
 
 파일 안의 내용을 복사 -> Add file-> Create new file -> 에디터에 그대로 복붙 후 내용을 수정합니다.
