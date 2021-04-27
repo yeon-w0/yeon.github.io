@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  font-family: 'Noto Sans KR', 'Times New Roman', serif;
+  font-family: 'Noto Sans KR', Arial, sans-serif;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
@@ -484,6 +484,7 @@ footer .footer-custom-content {
   margin: 0 0.625rem;
 }
 .post-preview .post-entry {
+  font-family: 'Noto Sans KR','Times New Roman', serif;
   width: 100%;
 }
 .post-preview .post-image {
