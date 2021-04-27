@@ -8,6 +8,8 @@ Beautiful Jekyll은 MIT 라이선스를 가진 프로젝트로, 변경과 재배
 Beautiful Jekyll 테마에 대한 자세한 정보를 알고 싶은 분은 [원본 프로젝트 페이지](https://github.com/daattali/beautiful-jekyll)로 이동해 주세요.  
 
 
++ [배포 포스트]https://posty.pe/3f0nfm 에서 Roll20 로그 백업법을 간략히 확인하실 수 있을 겁니다.
+
 
 # Why Beautiful Jekyll?
 
@@ -74,7 +76,7 @@ open_testlog -> 공개 포스트
 
 수정을 완료한 후 페이지 맨 아래의 'commit' 버튼을 누르시면 됩니다.
 
-#### <암호화 html>
+### <암호화 html>
 원하는 html 을 다음 사이트에 들어가서 암호화합니다.  
 - [pagecrypt](https://www.maxlaumeister.com/pagecrypt/)  
 
@@ -85,10 +87,6 @@ open_testlog -> 공개 포스트
 파일 내용 중 {% include_relative 파일이름.html %} 라는 부분을 찾습니다.
 
 '파일 이름' 부분을 우리가 다운로드한 암호화 html의 파일명으로 고쳐 씁니다.
-
-
-
-
 
 **주의 : 비밀번호가 암호화되어서 어디에도 저장되지 않기 때문에, 잊어버리면 신선이 와도 비밀번호를 찾기 어렵습니다. 원본 파일을 버리지 않는 것을 추천합니다!**
 
