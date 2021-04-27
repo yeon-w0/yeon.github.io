@@ -8,7 +8,7 @@ Beautiful Jekyll은 MIT 라이선스를 가진 프로젝트로, 변경과 재배
 Beautiful Jekyll 테마에 대한 자세한 정보를 알고 싶은 분은 [원본 프로젝트 페이지](https://github.com/daattali/beautiful-jekyll)로 이동해 주세요.  
 
 
-+ [배포 포스트]https://posty.pe/3f0nfm 에서 Roll20 로그 백업법을 간략히 확인하실 수 있을 겁니다.
++ [배포 포스트](https://posty.pe/3f0nfm) 에서 Roll20 로그 백업법을 간략히 확인하실 수 있을 겁니다.
 
 
 # Why Beautiful Jekyll?
