@@ -35,15 +35,15 @@ round-avatar: true
 # --- 하단 SNS 링크 --- #
 
 # 하단에 보여질 SNS 링크 아이콘입니다. 
-# 사용하지 않으려면 코드 앞쪽에 '#' 을 붙이고 띄어쓰기 해주세요.
+# 사용하지 않으려면 코드 맨 앞쪽에 '#' 을 붙이고 띄어쓰기 해주세요.
 # 사용하려면 반대로 # 을 지워주세요.
 social-network-links:
- email: "youremail@gmail.com"
- # facebook: deanattali
- # github: daattali
- twitter: yourtwitterid
- # patreon: DeanAttali
- # youtube: c/daattali
+  email: "someone@example.com"
+#  facebook: deanattali
+#  github: daattali
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
